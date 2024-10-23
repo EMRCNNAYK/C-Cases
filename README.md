@@ -1,9 +1,10 @@
 Murat Yücedağ C# Course Cases
-
+ [TÜRKÇE]
+ 
 🚀🚀🚀C# EĞİTİM KAMPI CASELERİ 🚀🚀🚀
 
 BÖLÜM 101
- [TÜRKÇE]
+
 📍 1. PROJE : Merhaba dünya, temel yazdırma komutları. Başlangıç olarak (string ve int) değişken türlerini öğrendik ve Console.WriteLine() komutuyla konsola girdiğimiz kodları bastırdık.
 
 📍 2. PROJE : Değişkenler. (string ve int) değişken türlerinin detayına inmenin yanında (double ve char) değişken türlerine giriş yaparak detaylı örneklerle pekiştirdik. Ayrıca klavyeden veri girişinin nasıl yapılacağını örnekler üzerinden öğrendik.
